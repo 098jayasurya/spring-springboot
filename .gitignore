@@ -1,0 +1,11 @@
+target/
+
+# IDE metadata
+.settings/
+.classpath
+.project
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
